@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5a23785-09f1-416b-bb36-143984494caa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gvJatkPK3wPKYHHGvWgZ2D6xms" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5a23785-09f1-416b-bb36-143984494caa" name="Default Changelist" comment="" />
+      <created>1598989200317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598989200317</updated>
+      <workItem from="1598989201498" duration="27345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="287" key="Github.ShareDialog" timestamp="1599085652450">
+      <screen x="0" y="23" width="1440" height="798" />
+    </state>
+    <state x="559" y="287" key="Github.ShareDialog/0.23.1440.798/1440.-70.1920.1177@0.23.1440.798" timestamp="1599085652450" />
+    <state x="559" y="288" key="Github.ShareDialog/0.23.1440.801/1440.-70.1920.1177@0.23.1440.801" timestamp="1599084175996" />
+    <state x="1809" y="345" width="1228" height="779" key="dock-window-1" timestamp="1599091085750">
+      <screen x="1440" y="-70" width="1920" height="1098" />
+    </state>
+    <state x="1809" y="345" width="1228" height="779" key="dock-window-1/0.23.1440.801/1440.-70.1920.1177@0.23.1440.801" timestamp="1599010530355" />
+    <state x="1809" y="345" width="1228" height="779" key="dock-window-1/0.23.1440.801/1440.-70.1920.1177@1440.-70.1920.1177" timestamp="1599086779579" />
+    <state x="1809" y="345" width="1228" height="779" key="dock-window-1/0.23.1440.877/1440.-70.1920.1098@0.23.1440.877" timestamp="1599091085750" />
+    <state x="1500" y="-70" width="893" height="635" key="dock-window-2" timestamp="1599086779583">
+      <screen x="1440" y="-70" width="1920" height="1177" />
+    </state>
+    <state x="1500" y="-70" width="893" height="635" key="dock-window-2/0.23.1440.801/1440.-70.1920.1177@0.23.1440.801" timestamp="1599086364584" />
+    <state x="1500" y="-70" width="893" height="635" key="dock-window-2/0.23.1440.801/1440.-70.1920.1177@1440.-70.1920.1177" timestamp="1599086779583" />
+    <state x="1500" y="-70" width="893" height="635" key="dock-window-2/0.23.1440.877/1440.-70.1920.1098@0.23.1440.877" timestamp="1599013818842" />
+  </component>
+</project>
